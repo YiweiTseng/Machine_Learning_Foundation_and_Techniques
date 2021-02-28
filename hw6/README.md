@@ -5,10 +5,10 @@ Please run the algorithm on the following set for training:
 
               http://www.csie.ntu.edu.tw/~htlin/course/ml20fall/hw6/hw6_train.dat
 
-and the following file as our test data set for evaluating Eout:
+  and the following file as our test data set for evaluating Eout:
 
                http://www.csie.ntu.edu.tw/~htlin/course/ml20fall/hw6/hw6_test.dat
                
-What is the Eout(g), where g is the unpruned decision tree returned from your C&RT algorithm and Eout is evaluated using the 0/1 error? Choose the closest answer; provide your code.
+  What is the Eout(g), where g is the unpruned decision tree returned from your C&RT algorithm and Eout is evaluated using the 0/1 error? Choose the closest answer;   provide your code.
 
     [a] 0.08 [b] 0.13 [c] 0.18 [d] 0.23 [e] 0.28
